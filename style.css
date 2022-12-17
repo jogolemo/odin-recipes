@@ -1,0 +1,50 @@
+/* set universal font family */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #edede9;
+}
+
+/* center all "center" divs */
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+/* adjust lists to appear centered */
+/* .center ol {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.center ul {
+    padding-left: 25%;
+    padding-right: 25%;
+} */
+
+/* center all headers */
+h1 {
+    text-align: center;
+}
+
+/* center all images */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* adjust size of home page image */
+#fork-knife {
+    height: auto;
+    width: 400px;
+}
+
+/* style list of recipes on home page */
+.recipe-list {
+    font-size: 20px;
+    line-height: 2.0em;
+    list-style: none;
+    text-align: center;
+    margin-top: 30px;
+}
